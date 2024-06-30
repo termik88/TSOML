@@ -1,17 +1,19 @@
 # Graduation qualification work on the topic: 'EXTRACTION AND CLASSIFICATION OF FEATURES FROM A SET OF OCULOGRAPHY DATA USING MACHINE LEARNING METHODS'
-# Выпускная квалификационная работа на тему: "ИЗВЛЕЧЕНИЕ И КЛАССИФИКАЦИЯ ПРИЗНАКОВ ИЗ НАБОРА ДАННЫХ ОКУЛОГРАФИИ МЕТОДАМИ МАШИННОГО ОБУЧЕНИЯ"
+## Выпускная квалификационная работа на тему: "ИЗВЛЕЧЕНИЕ И КЛАССИФИКАЦИЯ ПРИЗНАКОВ ИЗ НАБОРА ДАННЫХ ОКУЛОГРАФИИ МЕТОДАМИ МАШИННОГО ОБУЧЕНИЯ"
 
-## [Автор Колосов И.В. (УрФУ РИМ-220962)](https://github.com/termik88)
+### Ссылки
 
-## [Научный руководитель Долганов А.Ю. (УрФУ)](https://urfu.ru/ru/about/personal-pages/Personal/person/anton.dolganov/)
+- [Автор Колосов И.В. (УрФУ РИМ-220962)](https://github.com/termik88)
 
-## [Блокнот c исследованиями](https://github.com/termik88/VKR_ML/blob/main/vkr_research.ipynb)
+- [Научный руководитель Долганов А.Ю. (УрФУ)](https://urfu.ru/ru/about/personal-pages/Personal/person/anton.dolganov/)
 
-## [Отзыв руководителя](https://github.com/termik88/VKR_ML/blob/main/review%20-%20Scientific%20Supervisor.pdf)
+- [Блокнот c исследованиями](https://github.com/termik88/VKR_ML/blob/main/vkr_research.ipynb)
 
-## [Рецензия на ВКР от Кирилов Б.А. (МФТИ)](https://github.com/termik88/VKR_ML/blob/main/review%20-%20Expert.pdf)
+- [Отзыв руководителя](https://github.com/termik88/VKR_ML/blob/main/review%20-%20Scientific%20Supervisor.pdf)
 
-## [Текст ВКР](https://github.com/termik88/VKR_ML/blob/main/text_vkr.pdf) 
+- [Рецензия на ВКР от Кирилов Б.А. (МФТИ)](https://github.com/termik88/VKR_ML/blob/main/review%20-%20Expert.pdf)
+
+- [Текст ВКР](https://github.com/termik88/VKR_ML/blob/main/text_vkr.pdf) 
 
 ### Описание
 OCULOGRAPHY, EVENT DETECTION, EYE MOVEMENTS,
@@ -36,14 +38,19 @@ MACHINE LEARNING, FIXATIONS, SACCADES, INTERVAL THRESHOLD,
 вероятности извлечения признаков.
 
 ### Результаты
-Средняя точность: 0.9597701149425287
-Интервал доверия(0.95) для точности: (0.91927 , 1.00027)
-Отчет о классификации:
-              precision    recall  f1-score   support
 
-         0.0       1.00      0.90      0.95        20
-         1.0       0.89      1.00      0.94        17
+#### Средняя точность
+0.9597701149425287
 
-    accuracy                           0.95        37
-   macro avg       0.95      0.95      0.95        37
-weighted avg       0.95      0.95      0.95        37
+#### Интервал доверия (0.95) для точности
+(0.91927 , 1.00027)
+
+#### Отчет о классификации
+
+|  | precision | recall | f1-score | support |
+| --- | --- | --- | --- | --- |
+| 0.0 | 1.00 | 0.90 | 0.95 | 20 |
+| 1.0 | 0.89 | 1.00 | 0.94 | 17 |
+| accuracy |  |  | 0.95 | 37 |
+| macro avg | 0.95 | 0.95 | 0.95 | 37 |
+| weighted avg | 0.95 | 0.95 | 0.95 | 37 |
