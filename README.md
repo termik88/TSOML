@@ -1,2 +1,49 @@
-# VKR_ML
-Graduation qualification work on the topic: 'EXTRACTION AND CLASSIFICATION OF FEATURES FROM A SET OF OCULOGRAPHY DATA USING MACHINE LEARNING METHODS'
+# Graduation qualification work on the topic: 'EXTRACTION AND CLASSIFICATION OF FEATURES FROM A SET OF OCULOGRAPHY DATA USING MACHINE LEARNING METHODS'
+# Выпускная квалификационная работа на тему: "ИЗВЛЕЧЕНИЕ И КЛАССИФИКАЦИЯ ПРИЗНАКОВ ИЗ НАБОРА ДАННЫХ ОКУЛОГРАФИИ МЕТОДАМИ МАШИННОГО ОБУЧЕНИЯ"
+
+## [Автор Колосов И.В. (УрФУ РИМ-220962)](https://github.com/termik88)
+
+## [Научный руководитель Долганов А.Ю. (УрФУ)](https://urfu.ru/ru/about/personal-pages/Personal/person/anton.dolganov/)
+
+## [Блокнот c исследованиями](https://github.com/termik88/VKR_ML/blob/main/vkr_research.ipynb)
+
+## [Отзыв руководителя](https://github.com/termik88/VKR_ML/blob/main/review%20-%20Scientific%20Supervisor.pdf)
+
+## [Рецензия на ВКР от Кирилов Б.А. (МФТИ)](https://github.com/termik88/VKR_ML/blob/main/review%20-%20Expert.pdf)
+
+## [Текст ВКР](https://github.com/termik88/VKR_ML/blob/main/text_vkr.pdf) 
+
+### Описание
+OCULOGRAPHY, EVENT DETECTION, EYE MOVEMENTS,
+MACHINE LEARNING, FIXATIONS, SACCADES, INTERVAL THRESHOLD,
+ИЗВЛЕЧЕНИЕ ПРИЗНАКОВ, КЛАССИФИКАЦИЯ, АНОМАЛИИ, RFE
+
+Целью данного **исследования** является анализ методов машинного
+обучения для извлечения и классификации признаков из наборов данных
+окулограмм для повышения точности диагностики дислексии.
+
+Объектом исследования является обнаружение различных событий
+движения глаз из данных окулограммы, включая прогрессивные и
+регрессивные движения глаз, фиксации, саккады и типы полей зрения.
+
+В исследовании изучается использование пороговых алгоритмов и
+методов кластеризации на основе аномалий для идентификации этих событий.
+
+В исследовании используется стратифицированная перекрестная
+валидация и рекурсивный отбор признаков для выбора наиболее значимых
+признаков для моделей машинного обучения, а также изучается вариативность
+рекурсивного отбора признаков на основе точности предсказания и
+вероятности извлечения признаков.
+
+### Результаты
+Средняя точность: 0.9597701149425287
+Интервал доверия(0.95) для точности: (0.91927 , 1.00027)
+Отчет о классификации:
+              precision    recall  f1-score   support
+
+         0.0       1.00      0.90      0.95        20
+         1.0       0.89      1.00      0.94        17
+
+    accuracy                           0.95        37
+   macro avg       0.95      0.95      0.95        37
+weighted avg       0.95      0.95      0.95        37
