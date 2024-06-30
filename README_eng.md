@@ -38,7 +38,7 @@ The research uses stratified cross-validation and recursive feature elimination 
 
 #### Confidence Interval (0.95) for Accuracy
 
-(0.91927, 1.00027)
+(0.91927, 1.00000)
 
 #### Classification Report
 
