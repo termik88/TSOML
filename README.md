@@ -1,25 +1,31 @@
-# Graduation qualification work on the topic: 'EXTRACTION AND CLASSIFICATION OF FEATURES FROM A SET OF OCULOGRAPHY DATA USING MACHINE LEARNING METHODS'
-## Выпускная квалификационная работа на тему: "ИЗВЛЕЧЕНИЕ И КЛАССИФИКАЦИЯ ПРИЗНАКОВ ИЗ НАБОРА ДАННЫХ ОКУЛОГРАФИИ МЕТОДАМИ МАШИННОГО ОБУЧЕНИЯ"
+# Магистерская выпускная квалификационная работа ([ENG](https://github.com/termik88/VKR_ML/blob/main/README_eng.md))
+## Тема: "ИЗВЛЕЧЕНИЕ И КЛАССИФИКАЦИЯ ПРИЗНАКОВ ИЗ НАБОРА ДАННЫХ ОКУЛОГРАФИИ МЕТОДАМИ МАШИННОГО ОБУЧЕНИЯ"
+
+### Автор
+
+Колосов И.В. (УрФУ РИМ-220962)
+
+### Научный руководитель
+
+к.т.н. Долганов А.Ю. (УрФУ)
 
 ### Ссылки
 
-- [Автор Колосов И.В. (УрФУ РИМ-220962)](https://github.com/termik88)
+- [GitHub автора](https://github.com/termik88)
 
-- [Научный руководитель Долганов А.Ю. (УрФУ)](https://urfu.ru/ru/about/personal-pages/Personal/person/anton.dolganov/)
+- [Профиль научного руководителя](https://urfu.ru/ru/about/personal-pages/Personal/person/anton.dolganov/)
 
 - [Блокнот c исследованиями](https://github.com/termik88/VKR_ML/blob/main/vkr_research.ipynb)
 
-- [Отзыв руководителя](https://github.com/termik88/VKR_ML/blob/main/review%20-%20Scientific%20Supervisor.pdf)
+- [Набор данных](https://figshare.com/collections/Screening_for_Dyslexia_Using_Eye_Tracking_During_Reading/3521379)
+
+- [Отзыв научного руководителя](https://github.com/termik88/VKR_ML/blob/main/review%20-%20Scientific%20Supervisor.pdf)
 
 - [Рецензия на ВКР от Кирилов Б.А. (МФТИ)](https://github.com/termik88/VKR_ML/blob/main/review%20-%20Expert.pdf)
 
-- [Текст ВКР](https://github.com/termik88/VKR_ML/blob/main/text_vkr.pdf) 
+- [Полный текст ВКР](https://github.com/termik88/VKR_ML/blob/main/text_vkr.pdf) 
 
 ### Описание
-OCULOGRAPHY, EVENT DETECTION, EYE MOVEMENTS,
-MACHINE LEARNING, FIXATIONS, SACCADES, INTERVAL THRESHOLD,
-ИЗВЛЕЧЕНИЕ ПРИЗНАКОВ, КЛАССИФИКАЦИЯ, АНОМАЛИИ, RFE
-
 Целью данного **исследования** является анализ методов машинного
 обучения для извлечения и классификации признаков из наборов данных
 окулограмм для повышения точности диагностики дислексии.
@@ -54,3 +60,17 @@ MACHINE LEARNING, FIXATIONS, SACCADES, INTERVAL THRESHOLD,
 | accuracy |  |  | 0.95 | 37 |
 | macro avg | 0.95 | 0.95 | 0.95 | 37 |
 | weighted avg | 0.95 | 0.95 | 0.95 | 37 |
+
+### Ключевые слова
+
+* Oculography
+* Event Detection
+* Eye Movements
+* Machine Learning
+* Fixations
+* Saccades
+* Interval Threshold
+* Feature Extraction
+* Classification
+* Anomalies
+* RFE
