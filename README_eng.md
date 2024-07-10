@@ -30,6 +30,29 @@ The research explores the use of threshold algorithms and anomaly-based clusteri
 
 The research uses stratified cross-validation and recursive feature elimination to select the most significant features for machine learning models, as well as studying the variability of recursive feature elimination based on prediction accuracy and feature extraction probability.
 
+#### Libraries and Technologies:
+
+1. Pandas
+2. NumPy
+3. Matplotlib
+4. Seaborn
+5. Plotly
+6. SciPy
+7. Statsmodels
+8. Scikit-learn
+9. HDSCAN
+10. XGBoost
+
+#### Models Used:
+
+1. Logistic Regression (LogisticRegression, LogisticRegressionCV)
+2. Support Vector Machine (SVC)
+3. Random Forest Classifier (RandomForestClassifier)
+4. Gradient Boosting Classifier (GradientBoostingClassifier)
+5 DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
+6. Local Outlier Factor (LOF)
+7. XGBoost (Extreme Gradient Boosting)
+
 ### Results
 
 #### Average Accuracy
