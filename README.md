@@ -1,4 +1,4 @@
-# Graduation Qualification Work
+# Graduation Qualification Work([RU](https://github.com/termik88/VKR_ML/blob/main/README.ru.md))
 
 ## Title: Extraction and Classification of Features from a Set of Oculography Data Using Machine Learning Methods
 
