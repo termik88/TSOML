@@ -49,7 +49,7 @@ The research uses stratified cross-validation and recursive feature elimination 
 2. Support Vector Machine (SVC)
 3. Random Forest Classifier (RandomForestClassifier)
 4. Gradient Boosting Classifier (GradientBoostingClassifier)
-5 DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
+5. DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
 6. Local Outlier Factor (LOF)
 7. XGBoost (Extreme Gradient Boosting)
 
