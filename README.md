@@ -14,7 +14,7 @@ Dolganov A.Yu.
 
 * [Author's GitHub](https://github.com/termik88)
 * [Scientific Supervisor's Profile](https://urfu.ru/ru/about/personal-pages/Personal/person/anton.dolganov/)
-* [Research Notebook](https://github.com/termik88/TSOML/blob/main/vkr_research.ipynb)
+* [Research Notebook](https://github.com/termik88/TSOML/blob/main/TSOML_research.ipynb)
 * [Dataset](https://figshare.com/collections/Screening_for_Dyslexia_Using_Eye_Tracking_During_Reading/3521379)
 * [Scientific Supervisor's Review](https://github.com/termik88/TSOML/blob/main/review%20-%20Scientific%20Supervisor.pdf)
 * [Expert Review](https://github.com/termik88/TSOML/blob/main/review%20-%20Expert.pdf)
