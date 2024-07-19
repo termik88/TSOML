@@ -15,15 +15,15 @@
 
 - [Профиль научного руководителя](https://urfu.ru/ru/about/personal-pages/Personal/person/anton.dolganov/)
 
-- [Блокнот c исследованиями](https://github.com/termik88/VKR_ML/blob/main/vkr_research.ipynb)
+- [Блокнот c исследованиями](https://github.com/termik88/TSOML/blob/main/vkr_research.ipynb)
 
 - [Набор данных](https://figshare.com/collections/Screening_for_Dyslexia_Using_Eye_Tracking_During_Reading/3521379)
 
-- [Отзыв научного руководителя](https://github.com/termik88/VKR_ML/blob/main/review%20-%20Scientific%20Supervisor.pdf)
+- [Отзыв научного руководителя](https://github.com/termik88/TSOML/blob/main/review%20-%20Scientific%20Supervisor.pdf)
 
-- [Рецензия на ВКР от Кирилов Б.А. (МФТИ)](https://github.com/termik88/VKR_ML/blob/main/review%20-%20Expert.pdf)
+- [Рецензия на ВКР от Кирилов Б.А. (МФТИ)](https://github.com/termik88/TSOML/blob/main/review%20-%20Expert.pdf)
 
-- [Полный текст ВКР](https://github.com/termik88/VKR_ML/blob/main/text_vkr.pdf) 
+- [Полный текст ВКР](https://github.com/termik88/TSOML/blob/main/text_vkr.pdf) 
 
 ### Описание
 Целью данного **исследования** является анализ методов машинного
