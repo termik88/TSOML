@@ -76,6 +76,7 @@ The research uses stratified cross-validation and recursive feature elimination 
 ### Keywords
 
 * Oculography
+* Time Series
 * Event Detection
 * Eye Movements
 * Machine Learning
