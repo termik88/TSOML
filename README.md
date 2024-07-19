@@ -1,14 +1,14 @@
-# Graduation Qualification Work([RU](https://github.com/termik88/VKR_ML/blob/main/README.ru.md))
+# TSOML - Time Series Oculogram Machine Learning([RU](https://github.com/termik88/VKR_ML/blob/main/README.ru.md))
 
 ## Title: Extraction and Classification of Features from a Set of Oculography Data Using Machine Learning Methods
 
 ### Author
 
-Kolosov I.V. (UrFU RIM-220962)
+Kolosov I.V.
 
 ### Scientific Supervisor
 
-Dolganov A.Yu. (UrFU)
+Dolganov A.Yu.
 
 ### Links
 
