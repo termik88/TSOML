@@ -15,7 +15,7 @@
 
 - [Профиль научного руководителя](https://urfu.ru/ru/about/personal-pages/Personal/person/anton.dolganov/)
 
-- [Блокнот c исследованиями](https://github.com/termik88/TSOML/blob/main/vkr_research.ipynb)
+- [Блокнот c исследованиями](https://github.com/termik88/TSOML/blob/main/TSOML_research.ipynb)
 
 - [Набор данных](https://figshare.com/collections/Screening_for_Dyslexia_Using_Eye_Tracking_During_Reading/3521379)
 
