@@ -1,4 +1,4 @@
-# TSOML - Машинное обучение окулограмм временных рядов ([ENG](https://github.com/termik88/VKR_ML/blob/main/README.md))
+# TSOML ([ENG](https://github.com/termik88/VKR_ML/blob/main/README.md))
 ## Тема: "ИЗВЛЕЧЕНИЕ И КЛАССИФИКАЦИЯ ПРИЗНАКОВ ИЗ НАБОРА ДАННЫХ ОКУЛОГРАФИИ МЕТОДАМИ МАШИННОГО ОБУЧЕНИЯ"
 
 ### Автор
